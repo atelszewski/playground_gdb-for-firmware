@@ -1,0 +1,15 @@
+*.o
+*.d
+*.su
+*.elf
+*.map
+*.cmd
+*.cflags
+*.config
+*.creator
+*.creator.user.*
+*.cxxflags
+*.files
+*.includes
+
+/build/
